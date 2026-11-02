@@ -3,7 +3,7 @@
 A minimal static page: the SMPL Works logo, “When less is more.”, and a GitHub link that opens in a new tab.
 
 - Website: https://smplworks.app/
-- Private repository: https://github.com/smpl-works/smpl-works.github.io
+- Public repository: https://github.com/smpl-works/smpl-works.github.io
 - Plain HTML, CSS, and SVG. No JavaScript, dependencies, build process, analytics, or external fonts.
 - Palette and type match the Lotus project's dark theme: charcoal `#181817`, warm white `#eee9e1`, rose `#dbab9f`, Segoe UI Variable / Segoe UI, and Georgia headings.
 
@@ -21,7 +21,7 @@ git commit -m "Update SMPL Works landing page"
 git push origin main
 ```
 
-The source repository is private; the published landing page is public. GitHub Pages hosting from private repositories requires an eligible GitHub plan.
+The source repository and published landing page are public. Hosting uses free GitHub Pages publishing.
 
 ## Domain
 
