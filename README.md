@@ -35,4 +35,4 @@ Squarespace manages the DNS. GitHub has verified ownership of `smplworks.app`. R
 | A | @ | 185.199.111.153 |
 | CNAME | www | smpl-works.github.io |
 
-The canonical address is `https://smplworks.app/`; GitHub Pages has HTTPS enforcement enabled. Verify both HTTP and HTTPS redirects from `www` after domain or certificate changes.
+The canonical address is `https://smplworks.app/`. GitHub manages the certificates; enable **Enforce HTTPS** in Pages settings once certificate provisioning completes. Verify both HTTP and HTTPS redirects from `www` after domain or certificate changes.
